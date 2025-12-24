@@ -59,6 +59,6 @@ The app uses `pd.get_dummies(..., drop_first=True)` to encode categorical variab
 - **Training:** model is trained on the entire dataset 
 - **Reported metrics:** R², MAE, RMSE 
 
-## Results
-
+## Dashboard
+ ![Input Form](https://github.com/Arshad-5068/AML-Task-3-/blob/main/output.png?raw=true)
 
